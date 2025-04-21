@@ -1,0 +1,12 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "intervention/image": "^2.7",
+        "phpoffice/phpspreadsheet": "^1.16"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.33"
+        }
+    }
+}
